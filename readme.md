@@ -4,7 +4,7 @@
 - Ionic: 2.1.1
 - Cordova: 5.1.1
 - NPM: NVM Default for 4.2.6
-- Postgres: Current (9.2.+)
+- Postgres: Current (9.6.+)
 
 ## How to Run 
 
