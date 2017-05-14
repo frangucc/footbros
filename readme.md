@@ -26,6 +26,6 @@ Seed psql database with db dump `psql rc1 < path/to/seed`
 
 - The browser HAS to have a mobile user agent. 
 
-- The urls for the search bar (React) were pulling from the wrong url. root.scope needed to be deleted in angular and the react data service needed to be refactored to pull from the right DB.
+- The urls for the search bar (React) were pulling from the wrong url. $root.server needed to be deleted in angular and the react data service needed to be refactored to pull from the right DB.
 
 
