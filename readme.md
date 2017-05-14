@@ -37,10 +37,10 @@ Seed psql database with db dump `psql rc1 < path/to/seed`
 
 ** DO NOT FORGET TO SET PERMISSIONS FOR DATABASE FOR YOUR MAC OSX USER TO GRANT ALL **
 
-1) Gulp
-2) Ionic Build
-3) Nodemon
-4) Set Useragent to mobile (otherwise desktop renders an angular auth0 depenancy error)
+1) `gulp`
+2) `ionic Build`
+3) `nodemon`
+4) Set Useragent to mobile in devtools under network tab (otherwise desktop renders an angular auth0 depenancy error)
 
 ## What was wrong? 
 
