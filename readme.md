@@ -22,7 +22,7 @@ Node: 4.2.6
 Ionic: 2.1.1
 Cordova: 5.1.1
 NPM: NVM Default for 4.2.6
-Postgres: Current (9+)
+Postgres: Current (9.2.+)
 
 ## How to Run 
 
@@ -44,5 +44,5 @@ Socket.io was missing from the project.
 
 The browser HAS to have a mobile user agent. 
 
-The urls for the search bar (React) were pulling from the wrong url. root.scope needed to be deleted in angular and the react dataservice needed to be refactored.   
+The urls for the search bar (React) were pulling from the wrong url. root.scope needed to be deleted in angular and the react data service needed to be refactored.
 
