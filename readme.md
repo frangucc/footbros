@@ -44,5 +44,5 @@ Socket.io was missing from the project.
 
 The browser HAS to have a mobile user agent. 
 
-The urls for the search bar (React) were pulling from the wrong url. root.scope needed to be deleted in angular and the react data service needed to be refactored.
+The urls for the search bar (React) were pulling from the wrong url. root.scope needed to be deleted in angular and the react data service needed to be refactored to pull from the right DB.
 
