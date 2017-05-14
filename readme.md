@@ -31,6 +31,8 @@ Pre-Requsites:
 Create a psql database called rc1. 
 Seed psql database with db dump `psql rc1 < path/to/seed`
 
+** DO NOT FORGET TO SET PERMISSIONS FOR DATABASE FOR YOUR MAC OSX USER TO GRANT ALL **
+
 1) Gulp
 2) Ionic Build
 3) Nodemon
